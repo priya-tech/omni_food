@@ -1,3 +1,3 @@
 # Omnifood
 
-https://rafsan0x20rafi.github.io/Omnifood
+Simple website for food ordering.
